@@ -87,7 +87,7 @@ function Home() {
               <Link to="/contact" className="btn-primary bg-white text-primary-600 hover:bg-gray-100 text-lg">
                 Get Started Today
               </Link>
-              <Link to="/services" className="btn-secondary border-white text-white hover:bg-white/10 text-lg">
+              <Link to="/services" className="bg-primary-600 border-2 border-primary-600 text-white font-semibold py-3 px-8 rounded-lg hover:bg-primary-700 hover:border-primary-700 transition-all duration-200 text-lg shadow-md hover:shadow-lg">
                 Explore Services
               </Link>
             </div>
